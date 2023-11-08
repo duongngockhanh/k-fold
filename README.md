@@ -1,2 +1,3 @@
-# k-fold
-Introduce to K-Fold Cross-Validation
+# K-Fold Cross-Validation
+1. Manually
+2. Using scikit-learn
